@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">02Boton</string>
+    <string name="textview">TextView</string>
+    <string name="pulse_aqui">Pulse aqui</string>
+    <string name="pulse_aqu">Pulse Aquí</string>
+    <string name="hola">Hola</string>
+</resources>
